@@ -1,0 +1,17 @@
+{
+    "name": "Metis DeFi Tokens",
+    "logoURI": "",
+    "keywords": [
+        "metis",
+        "defi",
+        "dex",
+        "andromeda"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "timestamp": "2021-11-30T12:08:00+00:00",
+    "tokens": []
+}

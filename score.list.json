@@ -1,0 +1,71 @@
+{
+    "name": "Scoring Token List",
+    "pairs": [
+        {
+            "label": "Metis/USDT",
+            "token0": "Metis",
+            "token1": "USDT",
+            "token0Address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "token1Address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "pairAddress": "0x3D60aFEcf67e6ba950b499137A72478B2CA7c5A1",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/METIS/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "coefficient": 10
+        },
+        {
+            "label": "Metis/USDC",
+            "token0": "Metis",
+            "token1": "USDC",
+            "token0Address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "token1Address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "pairAddress": "0x5Ae3ee7fBB3Cb28C17e7ADc3a6Ae605ae2465091",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/METIS/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 10
+        },
+        {
+            "label": "Metis/WOW",
+            "token0": "Metis",
+            "token1": "WOW",
+            "token0Address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "token1Address": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
+            "pairAddress": "0x1f9A2b3b05e1c43Ec6aaeF2fb727e43C4b956e30",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/METIS/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png",
+            "coefficient": 8
+        },
+        {
+            "label": "WOW/USDT",
+            "token0": "WOW",
+            "token1": "USDT",
+            "token0Address": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
+            "token1Address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "pairAddress": "0xf9B3F64Ed5053C8dFb45E909ecB2168748FB8d63",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "coefficient": 5
+        },
+        {
+            "label": "WOW/USDC",
+            "token0": "WOW",
+            "token1": "USDC",
+            "token0Address": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
+            "token1Address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "pairAddress": "0x267fE5988ADf59005F5f31e7d982124b607d5B16",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 5
+        },
+        {
+            "label": "USDT/USDC",
+            "token0": "USDT",
+            "token1": "USDC",
+            "token0Address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "token1Address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "pairAddress": "0x1caD5f8f5D4C0AD49646B2565CC0cA725E4280EA",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 2
+        }
+    ]
+}
