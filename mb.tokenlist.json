@@ -9,7 +9,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     },
@@ -37,6 +37,14 @@
             "name": "WOW Token",
             "symbol": "m.WOW",
             "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xf5f66d5daa89c090a7afa10e6c1553b2887a9a33",
+            "decimals": 18,
+            "name": "LINK Token",
+            "symbol": "m.LINK",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png"
         }
     ],
     "timestamp": "2021-12-06T10:47:00+00:00"
