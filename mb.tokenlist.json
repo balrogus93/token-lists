@@ -9,7 +9,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 4,
+        "major": 5,
         "minor": 0,
         "patch": 0
     },
@@ -45,7 +45,15 @@
             "name": "LINK Token",
             "symbol": "m.LINK",
             "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x420000000000000000000000000000000000000a",
+            "decimals": 18,
+            "name": "Ether",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png"
         }
     ],
-    "timestamp": "2021-12-12T12:13:00+00:00"
+    "timestamp": "2021-12-23T15:00:00+00:00"
 }
