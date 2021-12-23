@@ -1,5 +1,5 @@
 {
-    "name": "Netswap Top 15 Tokens",
+    "name": "Netswap Top 100 Tokens",
     "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png",
     "keywords": [
         "metis",
@@ -9,7 +9,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     },
