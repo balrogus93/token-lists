@@ -65,7 +65,172 @@
             "pairAddress": "0x1caD5f8f5D4C0AD49646B2565CC0cA725E4280EA",
             "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
             "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
-            "coefficient": 2
+            "coefficient": 5
+        },
+        {
+            "label": "NETT/m.USDT",
+            "token0": "NETT",
+            "token1": "m.USDT",
+            "token0Address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+            "token1Address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "pairAddress": "0x7d02ab940d7dd2b771e59633bbc1ed6ec2b99af1",
+            "token0Logo": "https: //raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "coefficient": 15
+        },
+        {
+            "label": "NETT/m.USDC",
+            "token0": "NETT",
+            "token1": "m.USDC",
+            "token0Address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+            "token1Address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "pairAddress": "0x0724d37522585e87d27c802728e824862dc72861",
+            "token0Logo": "https: //raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 15
+        },
+        {
+            "label": "NETT/Metis",
+            "token0": "NETT",
+            "token1": "Metis",
+            "token0Address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+            "token1Address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "pairAddress": "0x60312d4ebbf3617d3d33841906b5868a86931cbd",
+            "token0Logo": "https: //raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/METIS/logo.png",
+            "coefficient": 12
+        },
+        {
+            "label": "NETT/m.WOW",
+            "token0": "NETT",
+            "token1": "m.WOW",
+            "token0Address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+            "token1Address": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
+            "pairAddress": "0x0efd54e436264108c806036faaccc8ab28020057",
+            "token0Logo": "https: //raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png",
+            "coefficient": 12
+        },
+        {
+            "label": "NETT/WETH",
+            "token0": "NETT",
+            "token1": "WETH",
+            "token0Address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+            "token1Address": "0x420000000000000000000000000000000000000A",
+            "pairAddress": "0xc8ae82a0ab6ada2062b812827e1556c0fa448dd0",
+            "token0Logo": "https: //raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png",
+            "coefficient": 12
+        },
+        {
+            "label": "Metis/WETH",
+            "token0": "Metis",
+            "token1": "WETH",
+            "token0Address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "token1Address": "0x420000000000000000000000000000000000000A",
+            "pairAddress": "0x59051b5f5172b69e66869048dc69d35db0b3610d",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/METIS/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png",
+            "coefficient": 10
+        },
+        {
+            "label": "m.WOW/WETH",
+            "token0": "m.WOW",
+            "token1": "WETH",
+            "token0Address": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
+            "token1Address": "0x420000000000000000000000000000000000000A",
+            "pairAddress": "0x90ac85d73d29b69e5293fa7914e35405e1f3a126",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png",
+            "coefficient": 5
+        },
+        {
+            "label": "WETH/m.USDT",
+            "token0": "WETH",
+            "token1": "m.USDT",
+            "token0Address": "0x420000000000000000000000000000000000000A",
+            "token1Address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "pairAddress": "0x4db4ce7f5b43a6b455d3c3057b63a083b09b8376",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "coefficient": 8
+        },
+        {
+            "label": "WETH/m.USDC",
+            "token0": "WETH",
+            "token1": "m.USDC",
+            "token0Address": "0x420000000000000000000000000000000000000A",
+            "token1Address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "pairAddress": "0xf5988809ac97c65121e2c34f5d49558e3d12c253",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 8
+        },
+        {
+            "label": "m.LINK/m.USDT",
+            "token0": "m.LINK",
+            "token1": "USDT",
+            "token0Address": "0xf5f66d5daa89c090a7afa10e6c1553b2887a9a33",
+            "token1Address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "pairAddress": "0x6c1dd5f43969b92718e3b3105e529576c7304de8",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "coefficient": 3
+        },
+        {
+            "label": "m.LINK/m.USDC",
+            "token0": "m.LINK",
+            "token1": "USDC",
+            "token0Address": "0xf5f66d5daa89c090a7afa10e6c1553b2887a9a33",
+            "token1Address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "pairAddress": "0x940d7ac05754ec30be8e739a8f1ae3134705838e",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 3
+        },
+        {
+            "label": "AAVE/m.USDT",
+            "token0": "AAVE",
+            "token1": "USDT",
+            "token0Address": "0x68D97B7A961a5239B9F911DA8dEb57F6eF6e5e28",
+            "token1Address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "pairAddress": "0xf26311453867e158cab82178ed94897228e62d27",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/AAVE/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "coefficient": 3
+        },
+        {
+            "label": "AAVE/m.USDC",
+            "token0": "AAVE",
+            "token1": "USDC",
+            "token0Address": "0x68D97B7A961a5239B9F911DA8dEb57F6eF6e5e28",
+            "token1Address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "pairAddress": "0xfc0b0992c6b0db1bddf5f7494b75fd929dfc745b",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/AAVE/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 3
+        },
+        {
+            "label": "CRV/m.USDT",
+            "token0": "CRV",
+            "token1": "USDT",
+            "token0Address": "0x87DD4a7Ad23B95cD9fF9C26B5cF325905CaF8663",
+            "token1Address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "pairAddress": "0xb3d4380292b422f2c8118e5777d0e69691e214a9",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/CRV/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+            "coefficient": 3
+        },
+        {
+            "label": "CRV/m.USDC",
+            "token0": "CRV",
+            "token1": "USDC",
+            "token0Address": "0x87DD4a7Ad23B95cD9fF9C26B5cF325905CaF8663",
+            "token1Address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "pairAddress": "0xd5c325e8795fc6f7ddde89a08853aef6cf072a39",
+            "token0Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/CRV/logo.png",
+            "token1Logo": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png",
+            "coefficient": 3
         }
     ]
 }
