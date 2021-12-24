@@ -1,6 +1,6 @@
 {
     "name": "Metis DeFi Tokens",
-    "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/AAVE/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png",
     "keywords": [
         "metis",
         "defi",
@@ -8,11 +8,11 @@
         "andromeda"
     ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     },
-    "timestamp": "2021-12-23T15:00:00+00:00",
+    "timestamp": "2021-12-24T15:00:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -29,6 +29,14 @@
             "name": "Curve DAO Token",
             "symbol": "CRV",
             "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/CRV/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+            "decimals": 18,
+            "name": "Netswap Token",
+            "symbol": "NETT",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png"
         }
     ]
 }
