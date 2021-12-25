@@ -1,0 +1,35 @@
+{
+    "name": "oPortal Bridge Tokens",
+    "logoURI": "https://raw.githubusercontent.com/Netswap/token-lists/master/images/oPortal.png",
+    "keywords": [
+        "metis",
+        "defi",
+        "dex",
+        "bridge",
+        "andromeda"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "timestamp": "2021-12-25T15:00:00+00:00",
+    "tokens": [
+        {
+            "chainId": 1088,
+            "address": "0x68D97B7A961a5239B9F911DA8dEb57F6eF6e5e28",
+            "decimals": 18,
+            "name": "AAVE Token",
+            "symbol": "AAVE",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/AAVE/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x87DD4a7Ad23B95cD9fF9C26B5cF325905CaF8663",
+            "decimals": 18,
+            "name": "Curve DAO Token",
+            "symbol": "CRV",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/CRV/logo.png"
+        }
+    ]
+}

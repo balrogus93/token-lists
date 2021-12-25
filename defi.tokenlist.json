@@ -8,11 +8,11 @@
         "andromeda"
     ],
     "version": {
-        "major": 2,
+        "major": 3,
         "minor": 0,
         "patch": 0
     },
-    "timestamp": "2021-12-24T15:00:00+00:00",
+    "timestamp": "2021-12-31T16:00:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -37,6 +37,14 @@
             "name": "Netswap Token",
             "symbol": "NETT",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x445ea60f4ace3d8794369379e68fa0f76af06b02",
+            "decimals": 18,
+            "name": "Poly-Peg CAKE",
+            "symbol": "CAKE",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x445ea60f4ace3d8794369379e68fa0f76af06b02/logo.png"
         }
     ]
 }

@@ -13,6 +13,7 @@ the specification. The Netswap community invites you to add your token to our to
 2. Token must be added to a list that it qualifies for:
     * **[Top 15 Tokenlist](./top15.tokenlist.json)**: Token must be in the top 15 of eligible Metis tokens by marketcap.
     * **[MB Tokenlist](./mb.tokenlist.json)**: Token must be bridgeable on the Metis Bridge.
+    * **[oPortal Bridge Tokenlist](./ob.tokenlist.json)**: Token must be bridgeable on the oPortal Bridge.
     * **[DeFi Tokenlist](./defi.tokenlist.json)**: Token must be connected to a DeFi protocol running on Metis.
     * **[Stablecoin Tokenlist](./stablecoin.tokenlist.json)**: Token must be a stablecoin.
     * **[Test Tokenlist](./test.tokenlist.json)**: Token must be in the stardust network, which is a test network of Metis.
