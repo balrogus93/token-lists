@@ -3,13 +3,12 @@
     "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png",
     "keywords": [
         "metis",
-        "defi",
+        "netswap",
         "ethereum",
-        "bridge",
         "andromeda"
     ],
     "version": {
-        "major": 4,
+        "major": 5,
         "minor": 0,
         "patch": 0
     },
@@ -101,7 +100,31 @@
             "name": "Poly-Peg BUSD",
             "symbol": "BUSD",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x12d84f1cfe870ca9c9df9785f8954341d7fbb249/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xe253e0cea0cdd43d9628567d097052b33f98d611",
+            "decimals": 18,
+            "name": "Avalanche Token",
+            "symbol": "rAVAX",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xe253e0cea0cdd43d9628567d097052b33f98d611/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x729de3792a5f810a2e7d7899da74de0d108e7e6b",
+            "decimals": 18,
+            "name": "Wrapped ONE",
+            "symbol": "WONE",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x729de3792a5f810a2e7d7899da74de0d108e7e6b/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xa9109271abcf0c4106ab7366b4edb34405947eed",
+            "decimals": 18,
+            "name": "Fantom Token",
+            "symbol": "rFTM",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xa9109271abcf0c4106ab7366b4edb34405947eed/logo.png"
         }
     ],
-    "timestamp": "2021-12-31T16:00:00+00:00"
+    "timestamp": "2021-01-03T15:00:00+00:00"
 }

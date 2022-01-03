@@ -1,12 +1,13 @@
 {
-    "name": "oPortal Bridge Tokens",
+    "name": "BoringDAO Bridge Tokens",
     "logoURI": "https://raw.githubusercontent.com/Netswap/token-lists/master/images/oPortal.png",
     "keywords": [
         "metis",
         "defi",
         "dex",
         "bridge",
-        "andromeda"
+        "andromeda",
+        "boringDAO"
     ],
     "version": {
         "major": 1,
