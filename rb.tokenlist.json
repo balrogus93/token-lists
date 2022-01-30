@@ -9,7 +9,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     },
@@ -37,7 +37,15 @@
             "name": "Fantom Token",
             "symbol": "rFTM",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xa9109271abcf0c4106ab7366b4edb34405947eed/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xfe282Af5f9eB59C30A3f78789EEfFA704188bdD4",
+            "decimals": 18,
+            "name": "Relay Token",
+            "symbol": "RELAY",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xfe282af5f9eb59c30a3f78789eeffa704188bdd4/logo.png"
         }
     ],
-    "timestamp": "2022-01-03T15:00:00+00:00"
+    "timestamp": "2022-01-30T15:00:00+00:00"
 }
