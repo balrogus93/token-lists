@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 5,
+        "major": 6,
         "minor": 0,
         "patch": 0
     },
@@ -132,7 +132,15 @@
             "name": "Relay Token",
             "symbol": "RELAY",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xfe282af5f9eb59c30a3f78789eeffa704188bdd4/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4b9d2923d875edf43980bf5ddddede3fb20fc742",
+            "decimals": 18,
+            "name": "Matic Token",
+            "symbol": "MATIC",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x4b9d2923d875edf43980bf5ddddede3fb20fc742/logo.png"
         }
     ],
-    "timestamp": "2021-01-03T15:00:00+00:00"
+    "timestamp": "2021-02-01T15:00:00+00:00"
 }
