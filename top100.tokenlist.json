@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 6,
+        "major": 7,
         "minor": 0,
         "patch": 0
     },
@@ -140,7 +140,23 @@
             "name": "Matic Token",
             "symbol": "MATIC",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x4b9d2923d875edf43980bf5ddddede3fb20fc742/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xE9Aa15a067b010a4078909baDE54F0C6aBcBB852",
+            "decimals": 18,
+            "name": "Metauce",
+            "symbol": "MINES",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xe9aa15a067b010a4078909bade54f0c6abcbb852/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
+            "decimals": 8,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4/logo.png"
         }
     ],
-    "timestamp": "2021-02-01T15:00:00+00:00"
+    "timestamp": "2022-02-19T15:00:00+00:00"
 }
