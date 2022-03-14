@@ -8,11 +8,11 @@
         "andromeda"
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     },
-    "timestamp": "2021-12-31T16:00:00+00:00",
+    "timestamp": "2021-03-15T16:00:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -45,6 +45,14 @@
             "name": "Poly-Peg CAKE",
             "symbol": "CAKE",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x445ea60f4ace3d8794369379e68fa0f76af06b02/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
+            "decimals": 18,
+            "name": "ByteToken",
+            "symbol": "BYTE",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x721532bc0da5ffaeb0a6a45fb24271e8098629a7/logo.png"
         }
     ]
 }

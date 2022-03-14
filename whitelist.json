@@ -156,6 +156,14 @@
             "name": "Wrapped BTC",
             "symbol": "WBTC",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
+            "decimals": 18,
+            "name": "ByteToken",
+            "symbol": "BYTE",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x721532bc0da5ffaeb0a6a45fb24271e8098629a7/logo.png"
         }
     ],
     "timestamp": "2022-02-21T15:00:00+00:00"
