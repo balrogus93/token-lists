@@ -9,7 +9,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     },
@@ -21,7 +21,15 @@
             "name": "USDC Token",
             "symbol": "m.USDC",
             "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x420000000000000000000000000000000000000a",
+            "decimals": 18,
+            "name": "Ether",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png"
         }
     ],
-    "timestamp": "2022-03-11T10:00:00+00:00"
+    "timestamp": "2022-03-18T10:00:00+00:00"
 }
