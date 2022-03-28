@@ -172,6 +172,14 @@
             "name": "beefy.finance",
             "symbol": "BIFI",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xe6801928061cdbe32ac5ad0634427e140efd05f9/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xa31848aa61f784cdbb6f74260d224a4356295799",
+            "decimals": 18,
+            "name": "Dexpools Token",
+            "symbol": "DXP",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xa31848aa61f784cdbb6f74260d224a4356295799/logo.png"
         }
     ],
     "timestamp": "2022-03-15T15:00:00+00:00"
