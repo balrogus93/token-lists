@@ -180,7 +180,15 @@
             "name": "Dexpools Token",
             "symbol": "DXP",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xa31848aa61f784cdbb6f74260d224a4356295799/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce",
+            "decimals": 18,
+            "name": "Hera Token",
+            "symbol": "HERA",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce/logo.png"
         }
     ],
-    "timestamp": "2022-03-15T15:00:00+00:00"
+    "timestamp": "2022-03-30T15:00:00+00:00"
 }
