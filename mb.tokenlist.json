@@ -9,7 +9,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 6,
+        "major": 7,
         "minor": 0,
         "patch": 0
     },
@@ -61,7 +61,15 @@
             "name": "DAI Token",
             "symbol": "m.DAI",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xd1f0a4e5444eed0fbcd6624dcef7ef33043e6168",
+            "decimals": 18,
+            "name": "AAVE Token",
+            "symbol": "m.AAVE",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xd1f0a4e5444eed0fbcd6624dcef7ef33043e6168/logo.png"
         }
     ],
-    "timestamp": "2022-07-01T15:00:00+00:00"
+    "timestamp": "2022-07-01T17:00:00+00:00"
 }
