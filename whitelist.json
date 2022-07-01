@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     },
@@ -196,7 +196,15 @@
             "name": "Hummus",
             "symbol": "HUM",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x4aac94985cd83be30164dfe7e9af7c054d7d2121/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0",
+            "decimals": 18,
+            "name": "DAI Token",
+            "symbol": "m.DAI",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0/logo.png"
         }
     ],
-    "timestamp": "2022-04-19T15:00:00+00:00"
+    "timestamp": "2022-07-01T15:00:00+00:00"
 }
