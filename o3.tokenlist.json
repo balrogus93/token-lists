@@ -1,0 +1,43 @@
+{
+    "name": "O3 Bridge Tokens",
+    "logoURI": "https://raw.githubusercontent.com/Netswap/token-lists/master/images/o3.svg",
+    "keywords": [
+        "metis",
+        "defi",
+        "ethereum",
+        "bridge",
+        "andromeda"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 1088,
+            "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "decimals": 6,
+            "name": "USDC Token",
+            "symbol": "m.USDC",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "decimals": 6,
+            "name": "USDT Token",
+            "symbol": "m.USDT",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x420000000000000000000000000000000000000a",
+            "decimals": 18,
+            "name": "Ether",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png"
+        }
+    ],
+    "timestamp": "2022-07-01T17:00:00+00:00"
+}
