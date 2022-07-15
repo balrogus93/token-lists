@@ -37,6 +37,14 @@
             "name": "Ether",
             "symbol": "WETH",
             "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+            "decimals": 18,
+            "name": "O3 Swap Token",
+            "symbol": "O3",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xee9801669c6138e84bd50deb500827b776777d28/logo.png"
         }
     ],
     "timestamp": "2022-07-01T17:00:00+00:00"
