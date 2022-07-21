@@ -9,7 +9,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 7,
+        "major": 8,
         "minor": 0,
         "patch": 0
     },
@@ -69,7 +69,15 @@
             "name": "AAVE Token",
             "symbol": "m.AAVE",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xd1f0a4e5444eed0fbcd6624dcef7ef33043e6168/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c",
+            "decimals": 18,
+            "name": "Sushi Token",
+            "symbol": "m.SUSHI",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c/logo.png"
         }
     ],
-    "timestamp": "2022-07-01T17:00:00+00:00"
+    "timestamp": "2022-07-22T17:00:00+00:00"
 }
