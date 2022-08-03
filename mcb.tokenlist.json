@@ -1,0 +1,35 @@
+{
+    "name": "Multichain Bridge Tokens",
+    "logoURI": "https://raw.githubusercontent.com/Netswap/token-lists/master/images/multichain.svg",
+    "keywords": [
+        "metis",
+        "defi",
+        "ethereum",
+        "bridge",
+        "andromeda"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 1088,
+            "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+            "decimals": 18,
+            "name": "Mai Stablecoin",
+            "symbol": "MAI",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xdfa46478f9e5ea86d57387849598dbfb2e964b02/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+            "decimals": 18,
+            "name": "QiDao",
+            "symbol": "QI",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x3f56e0c36d275367b8c502090edf38289b3dea0d/logo.png"
+        }
+    ],
+    "timestamp": "2022-08-03T17:00:00+00:00"
+}
