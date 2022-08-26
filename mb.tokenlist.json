@@ -9,7 +9,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 8,
+        "major": 9,
         "minor": 0,
         "patch": 0
     },
@@ -77,7 +77,15 @@
             "name": "Sushi Token",
             "symbol": "m.SUSHI",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10",
+            "decimals": 18,
+            "name": "Binance USD",
+            "symbol": "m.BUSD",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10/logo.png"
         }
     ],
-    "timestamp": "2022-07-22T17:00:00+00:00"
+    "timestamp": "2022-08-26T17:00:00+00:00"
 }

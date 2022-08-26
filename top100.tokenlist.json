@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 16,
+        "major": 17,
         "minor": 0,
         "patch": 0
     },
@@ -252,7 +252,15 @@
             "name": "PRO",
             "symbol": "PRO",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x259ef6776648500d7f1a8aba3651e38b1121e65e/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10",
+            "decimals": 18,
+            "name": "Binance USD",
+            "symbol": "m.BUSD",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10/logo.png"
         }
     ],
-    "timestamp": "2022-08-14T17:00:00+00:00"
+    "timestamp": "2022-08-26T17:00:00+00:00"
 }
