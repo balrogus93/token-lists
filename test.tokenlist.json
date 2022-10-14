@@ -12,9 +12,17 @@
     "version": {
         "major": 2,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "tokens": [
+        {
+            "chainId": 599,
+            "address": "0xA49efFF1961C0aF60519887E390e9954952176f8",
+            "decimals": 18,
+            "name": "Netswap Token",
+            "symbol": "NETT",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png"
+        },
         {
             "chainId": 599,
             "address": "0x757251F93e5f51d6C488B9Ebd2C8386AbaE7e3cD",
