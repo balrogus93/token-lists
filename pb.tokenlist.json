@@ -29,14 +29,6 @@
             "name": "Poly-Peg BNB",
             "symbol": "BNB",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x2692be44a6e38b698731fddf417d060f0d20a0cb/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0x12d84f1cfe870ca9c9df9785f8954341d7fbb249",
-            "decimals": 18,
-            "name": "Poly-Peg BUSD",
-            "symbol": "BUSD",
-            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x12d84f1cfe870ca9c9df9785f8954341d7fbb249/logo.png"
         }
     ],
     "timestamp": "2022-01-02T15:00:00+00:00"

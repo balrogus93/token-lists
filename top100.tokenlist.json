@@ -95,14 +95,6 @@
         },
         {
             "chainId": 1088,
-            "address": "0x12d84f1cfe870ca9c9df9785f8954341d7fbb249",
-            "decimals": 18,
-            "name": "Poly-Peg BUSD",
-            "symbol": "BUSD",
-            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x12d84f1cfe870ca9c9df9785f8954341d7fbb249/logo.png"
-        },
-        {
-            "chainId": 1088,
             "address": "0xe253e0cea0cdd43d9628567d097052b33f98d611",
             "decimals": 18,
             "name": "Avalanche Token",
