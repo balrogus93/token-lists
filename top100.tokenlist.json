@@ -151,14 +151,6 @@
         },
         {
             "chainId": 1088,
-            "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
-            "decimals": 8,
-            "name": "Wrapped BTC",
-            "symbol": "WBTC",
-            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4/logo.png"
-        },
-        {
-            "chainId": 1088,
             "address": "0x721532bc0da5ffaeb0a6a45fb24271e8098629a7",
             "decimals": 18,
             "name": "ByteToken",
