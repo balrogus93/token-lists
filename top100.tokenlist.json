@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 18,
+        "major": 19,
         "minor": 0,
         "patch": 0
     },
@@ -278,5 +278,5 @@
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x433e43047b95cb83517abd7c9978bdf7005e9938/logo.png"
         }
     ],
-    "timestamp": "2022-08-26T17:00:00+00:00"
+    "timestamp": "2023-04-28T17:00:00+00:00"
 }
