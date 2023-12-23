@@ -276,6 +276,14 @@
             "name": "WBTC Token",
             "symbol": "m.WBTC",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x433e43047b95cb83517abd7c9978bdf7005e9938/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xE1b6442f0d77D6110745308B8b3827f015Fe2648",
+            "decimals": 9,
+            "name": "UNICORN",
+            "symbol": "UNICORN",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xE1b6442f0d77D6110745308B8b3827f015Fe2648/logo.png"
         }
     ],
     "timestamp": "2023-04-28T17:00:00+00:00"
