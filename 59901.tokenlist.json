@@ -16,40 +16,40 @@
     },
     "tokens": [
         {
-            "chainId": 599,
-            "address": "0xA49efFF1961C0aF60519887E390e9954952176f8",
+            "chainId": 59901,
+            "address": "0x331b0d41EB115FA6821504c5fA26b2832554a7B7",
             "decimals": 18,
             "name": "Netswap Token",
             "symbol": "NETT",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png"
         },
         {
-            "chainId": 599,
-            "address": "0x757251F93e5f51d6C488B9Ebd2C8386AbaE7e3cD",
+            "chainId": 59901,
+            "address": "0xD651BAc7fEFB68B2378EAafD6858bC48fE3e2cac",
             "decimals": 6,
             "name": "Test USDT",
             "symbol": "TUSDT",
             "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png"
         },
         {
-            "chainId": 599,
-            "address": "0x4D0D58a7AD8223E6d5F983A8cDeB1E354ED0ced9",
+            "chainId": 59901,
+            "address": "0x22fBC16c7a430F9Ae285495e408C51512559eAE0",
             "decimals": 6,
             "name": "Test USDC",
             "symbol": "TUSDC",
             "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png"
         },
         {
-            "chainId": 599,
-            "address": "0xD615567F2E998f192bc63C7C58740688adCb7420",
+            "chainId": 59901,
+            "address": "0xE7D1D509b86e05b8C4176D78c02cFEa49C99d285",
             "decimals": 8,
             "name": "Test WBTC",
             "symbol": "TWBTC",
             "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WBTC/logo.png"
         },
         {
-            "chainId": 599,
-            "address": "0xE5991f3b3D468e6C904f56a4d9C0613c3e3aB4dB",
+            "chainId": 59901,
+            "address": "0x97964D768eFaB11F5E2691Cee8DfDaCbCbE14d9E",
             "decimals": 18,
             "name": "Test LINK",
             "symbol": "TLINK",
