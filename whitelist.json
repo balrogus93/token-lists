@@ -284,6 +284,14 @@
             "name": "UNICORN",
             "symbol": "UNICORN",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xe1b6442f0d77d6110745308b8b3827f015fe2648/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x2136d8017ac5f4Db99A7F9E23f15116b9c98Be4E",
+            "decimals": 18,
+            "name": "Vega Protocol",
+            "symbol": "VEGA",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x2136d8017ac5f4db99a7f9e23f15116b9c98be4e/logo.png"
         }
     ],
     "timestamp": "2023-12-25T17:00:00+00:00"
