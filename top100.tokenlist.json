@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 19,
+        "major": 20,
         "minor": 0,
         "patch": 0
     },
@@ -76,22 +76,6 @@
             "name": "Netswap Token",
             "symbol": "NETT",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0x445ea60f4ace3d8794369379e68fa0f76af06b02",
-            "decimals": 18,
-            "name": "Poly-Peg CAKE",
-            "symbol": "CAKE",
-            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x445ea60f4ace3d8794369379e68fa0f76af06b02/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0x2692be44a6e38b698731fddf417d060f0d20a0cb",
-            "decimals": 18,
-            "name": "Poly-Peg BNB",
-            "symbol": "BNB",
-            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x2692be44a6e38b698731fddf417d060f0d20a0cb/logo.png"
         },
         {
             "chainId": 1088,
@@ -278,5 +262,5 @@
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x433e43047b95cb83517abd7c9978bdf7005e9938/logo.png"
         }
     ],
-    "timestamp": "2023-04-28T17:00:00+00:00"
+    "timestamp": "2023-12-30T17:00:00+00:00"
 }
