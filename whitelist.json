@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 9,
+        "major": 10,
         "minor": 1,
         "patch": 0
     },
@@ -292,7 +292,47 @@
             "name": "Vega Protocol",
             "symbol": "VEGA",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x2136d8017ac5f4db99a7f9e23f15116b9c98be4e/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+            "decimals": 18,
+            "name": "Mai Stablecoin",
+            "symbol": "MAI",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xdfa46478f9e5ea86d57387849598dbfb2e964b02/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+            "decimals": 18,
+            "name": "QiDao",
+            "symbol": "QI",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x3f56e0c36d275367b8c502090edf38289b3dea0d/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x1f5550a0f5f659e07506088a7919a88dff37218f",
+            "decimals": 18,
+            "name": "PEAK",
+            "symbol": "PEAK",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x1f5550a0f5f659e07506088a7919a88dff37218f/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x259ef6776648500d7f1a8aba3651e38b1121e65e",
+            "decimals": 18,
+            "name": "PRO",
+            "symbol": "PRO",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x259ef6776648500d7f1a8aba3651e38b1121e65e/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10",
+            "decimals": 18,
+            "name": "Binance USD",
+            "symbol": "m.BUSD",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10/logo.png"
         }
     ],
-    "timestamp": "2023-12-25T17:00:00+00:00"
+    "timestamp": "2023-12-31T17:00:00+00:00"
 }
