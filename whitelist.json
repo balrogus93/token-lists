@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 10,
+        "major": 11,
         "minor": 1,
         "patch": 0
     },
@@ -332,6 +332,22 @@
             "name": "Binance USD",
             "symbol": "m.BUSD",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x5a3b6a5c737b0e85dd9120ceed7c0db86f41fa68",
+            "decimals": 18,
+            "name": "Mini Metis",
+            "symbol": "MINIME",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x5a3b6a5c737b0e85dd9120ceed7c0db86f41fa68/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x8eacA4A470e7509aC8d0873150310bFfd1c03927",
+            "decimals": 9,
+            "name": "Pepecus",
+            "symbol": "PEPECUS",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x8eaca4a470e7509ac8d0873150310bffd1c03927/logo.png"
         }
     ],
     "timestamp": "2023-12-31T17:00:00+00:00"
