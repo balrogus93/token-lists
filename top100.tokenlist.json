@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 20,
+        "major": 21,
         "minor": 0,
         "patch": 0
     },
@@ -260,7 +260,15 @@
             "name": "WBTC Token",
             "symbol": "m.WBTC",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x433e43047b95cb83517abd7c9978bdf7005e9938/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x2136d8017ac5f4Db99A7F9E23f15116b9c98Be4E",
+            "decimals": 18,
+            "name": "Vega Protocol",
+            "symbol": "VEGA",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x2136d8017ac5f4db99a7f9e23f15116b9c98be4e/logo.png"
         }
     ],
-    "timestamp": "2023-12-30T17:00:00+00:00"
+    "timestamp": "2023-12-31T17:00:00+00:00"
 }
