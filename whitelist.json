@@ -8,7 +8,7 @@
         "andromeda"
     ],
     "version": {
-        "major": 11,
+        "major": 12,
         "minor": 1,
         "patch": 0
     },
@@ -348,7 +348,31 @@
             "name": "Pepecus",
             "symbol": "PEPECUS",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x8eaca4a470e7509ac8d0873150310bffd1c03927/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
+            "decimals": 18,
+            "name": "Revenant",
+            "symbol": "GAMEFI",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x966b25d174be6ba703e0ff80c68bb6e167236ba2/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xa11dd414ad9b68cc1fe4d0a256f0f4413169dd5e",
+            "decimals": 18,
+            "name": "TitanBorn",
+            "symbol": "TITANS",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xa11dd414ad9b68cc1fe4d0a256f0f4413169dd5e/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xc9719e8431fc37dc4526c0bc6b5087febc6b5909",
+            "decimals": 18,
+            "name": "Metis Chain Capital",
+            "symbol": "MCC",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xc9719e8431fc37dc4526c0bc6b5087febc6b5909/logo.png"
         }
     ],
-    "timestamp": "2023-12-31T17:00:00+00:00"
+    "timestamp": "2024-01-01T17:00:00+00:00"
 }
