@@ -17,7 +17,7 @@
     "tokens": [
         {
             "chainId": 59901,
-            "address": "0x331b0d41EB115FA6821504c5fA26b2832554a7B7",
+            "address": "0xdE89C3A592FBcd9c34A0329919F2904d4114Bc83",
             "decimals": 18,
             "name": "Netswap Token",
             "symbol": "NETT",
@@ -25,7 +25,7 @@
         },
         {
             "chainId": 59901,
-            "address": "0xD651BAc7fEFB68B2378EAafD6858bC48fE3e2cac",
+            "address": "0xc659e6F7cD7a204Cb358cC5EC738d6f2fE2289A8",
             "decimals": 6,
             "name": "Test USDT",
             "symbol": "TUSDT",
@@ -33,7 +33,7 @@
         },
         {
             "chainId": 59901,
-            "address": "0x22fBC16c7a430F9Ae285495e408C51512559eAE0",
+            "address": "0xe046C264FE0EF85F4e21737b1Ae4acaE9524049c",
             "decimals": 6,
             "name": "Test USDC",
             "symbol": "TUSDC",
@@ -41,7 +41,7 @@
         },
         {
             "chainId": 59901,
-            "address": "0xE7D1D509b86e05b8C4176D78c02cFEa49C99d285",
+            "address": "0x93135DA67ea53841219c2dB1FcAa5Dbb275Dd1C8",
             "decimals": 8,
             "name": "Test WBTC",
             "symbol": "TWBTC",
@@ -49,7 +49,7 @@
         },
         {
             "chainId": 59901,
-            "address": "0x97964D768eFaB11F5E2691Cee8DfDaCbCbE14d9E",
+            "address": "0x6a72bc6332e7252F2A696DB16Fe0186051325526",
             "decimals": 18,
             "name": "Test LINK",
             "symbol": "TLINK",
