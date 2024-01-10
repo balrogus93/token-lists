@@ -10,11 +10,35 @@
         "testnet"
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
-        "patch": 1
+        "patch": 0
     },
     "tokens": [
+        {
+            "chainId": 59901,
+            "address": "0xD08a2917653d4E460893203471f0000826fb4034",
+            "decimals": 18,
+            "name": "Test WETH",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png"
+        },
+        {
+            "chainId": 59901,
+            "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+            "decimals": 18,
+            "name": "Test AAVE",
+            "symbol": "AAVE",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/AAVE/logo.png"
+        },
+        {
+            "chainId": 59901,
+            "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "decimals": 18,
+            "name": "Test METIS",
+            "symbol": "METIS",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/METIS/logo.png"
+        },
         {
             "chainId": 59901,
             "address": "0xdE89C3A592FBcd9c34A0329919F2904d4114Bc83",
@@ -25,7 +49,7 @@
         },
         {
             "chainId": 59901,
-            "address": "0xc659e6F7cD7a204Cb358cC5EC738d6f2fE2289A8",
+            "address": "0xf8F06e6fdb132D99BD8f91b54dBFe77073dA5bcC",
             "decimals": 6,
             "name": "Test USDT",
             "symbol": "TUSDT",
@@ -33,7 +57,7 @@
         },
         {
             "chainId": 59901,
-            "address": "0xe046C264FE0EF85F4e21737b1Ae4acaE9524049c",
+            "address": "0xb1d8270f19351328CF3DC4FC9FF3c75d5c770Ca4",
             "decimals": 6,
             "name": "Test USDC",
             "symbol": "TUSDC",
@@ -41,7 +65,7 @@
         },
         {
             "chainId": 59901,
-            "address": "0x93135DA67ea53841219c2dB1FcAa5Dbb275Dd1C8",
+            "address": "0x31D7095Ff509272D28D7Fb3aFEE1EFFf2E61fA43",
             "decimals": 8,
             "name": "Test WBTC",
             "symbol": "TWBTC",
