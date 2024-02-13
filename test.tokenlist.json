@@ -81,11 +81,11 @@
         },
         {
             "chainId": 59901,
-            "address": "0x2e44dFc5071f8f01a657f464230851FD4d2DF812",
+            "address": "0xa32d8902891b665939c1534283f1bb7d9d283793",
             "decimals": 18,
             "name": "Test ENKI",
             "symbol": "TENKI",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png"
+            "logoURI": ""
         }
 
         
